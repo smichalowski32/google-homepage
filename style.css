@@ -1,0 +1,30 @@
+ul li{
+    list-style-type: none;
+}
+
+li{
+    display: inline-block;
+}
+.top-left{
+    display: inline;
+    float: left;
+}
+.top-right{
+    float: right;
+    display: inline;
+}
+.nav li{
+    padding-right: 5px;
+}
+.logo{
+    display: block;
+    
+   
+}
+.logo img{
+    width: 569px;
+    margin: 0 auto;
+    padding-top: 150px;
+    
+
+}

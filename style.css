@@ -24,4 +24,19 @@ li{
 .search{
     width: 569px;
     height: 25px;
+    box-shadow: 2px 2px 5px grey;
+    
+
+}
+.search:hover{
+    width: 569px;
+    height: 25px;
+    box-shadow: 3px 3px 5px grey;
+input {
+
+    font-size: 100%;
+}
+input[type="text"]{
+
+    font-size:24px;
 }
